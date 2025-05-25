@@ -1,4 +1,4 @@
-# Introduction to C++ Programming LanguageIntroduction to C++ Programming Language
+# Introduction to C++ Programming Language
 C++ is a general-purpose programming language that was developed by Bjarne Stroustrup as an enhancement of the C language to add object-oriented paradigm. making it suitable for both low-level system programming and high-level application development. It is a high-level programming language that was first released in 1985 and since then has become the foundation of many modern technologies like game engines, web browsers, operating systems, financial systems, etc.
 
 ## Features of C++
