@@ -15,7 +15,6 @@ int main()
 Hello
 ```
 ```bash
-//input
 Hello
 ```
 ```bash
