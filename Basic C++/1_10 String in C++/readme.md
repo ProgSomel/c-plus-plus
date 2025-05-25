@@ -11,12 +11,15 @@ int main()
 }
 ```
 ```bash
+//input
 Hello
 ```
 ```bash
+//input
 Hello
 ```
 ```bash
+//input
 Hello World
 ```
 ```bash
@@ -38,6 +41,7 @@ int main()
 }
 ```
 ```bash
+//input
 Hello World
 ```
 ```bash
@@ -61,6 +65,7 @@ int main()
 }
 ```
 ```bash
+//input
 15
 Hello World
 ```
@@ -87,6 +92,7 @@ int main()
 }
 ```
 ```bash
+//input
 15
 Hello World
 ```
@@ -110,12 +116,14 @@ int main()
 }
 ```
 ```bash
+//input
 Hello
 ```
 ```bash
 Hello
 ```
 ```bash
+//input
 Hello World
 ```
 ```bash
@@ -139,6 +147,7 @@ int main()
 }
 ```
 ```bash
+//input
 Hello World
 ```
 ```bash
